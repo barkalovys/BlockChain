@@ -1,2 +1,2 @@
 # BlockChain
- Simple blockhain implementation written in PHP 
+ Simple blockchain implementation written in PHP
